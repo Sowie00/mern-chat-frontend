@@ -1,5 +1,3 @@
-import { config } from './Constants';
-
 export const host = 'https://chat-api-k5s2.onrender.com';
 export const registerRoute = `${host}/api/auth/register`;
 export const loginRoute = `${host}/api/auth/login`;
